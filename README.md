@@ -1,2 +1,2 @@
 # mldsai_info
-Telegram Channel Snipplet Content
+Telegram Channel Snippet Content
