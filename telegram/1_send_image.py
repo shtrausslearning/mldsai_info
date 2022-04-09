@@ -1,9 +1,9 @@
 # Send an image to [chat_id] using [bot_id]
+# using request library
 # Послать картинку в Телеграм чат [chat_id]
-# используя бот [bot_id]
+# используя бот [bot_id] используя request
 
 import requests
-import time
 
 base_url = "https://api.telegram.org/bot[bot_id]/sendPhoto"
 
